@@ -6,6 +6,7 @@
 
 - [Introduzione al corso](slide/01-01-introduzione_2023.pdf)
 - [Introduzione a JavaFX](slide/02-01-javafx-crashcourse.pdf)
+- [Git & GitHub - Quick Introduction](slide/01-02-Git-quickintro.pdf)
 
 ## Informazioni
 
