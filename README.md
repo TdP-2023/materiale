@@ -7,6 +7,10 @@
 - [Introduzione al corso](slide/01-01-introduzione_2023.pdf)
 - [Introduzione a JavaFX](slide/02-01-javafx-crashcourse.pdf)
 - [Git & GitHub - Quick Introduction](slide/01-02-Git-quickintro.pdf)
+- [JavaFX ed il pattern MVC](slide/02-02-javafx-mvc-pattern.pdf)
+- [Collections: Set e Hash](slide/03-03-Sets%26Hash.pdf)
+- [Collections: Map](slide/03-04-Map.pdf)
+- [Database: JDBC, DAO, Connection Pooling](slide/04-01-jdbc-dao.pdf)
 
 ## Informazioni
 
