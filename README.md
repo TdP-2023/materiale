@@ -12,6 +12,7 @@
 - [Collections: Map](slide/03-04-Map.pdf)
 - [Database: JDBC, DAO, Connection Pooling](slide/04-01-jdbc-dao.pdf)
 - [Introduzione alla ricorsione](slide/05-01-recursion.pdf)
+- [Esempio sulla ricorsione: il quadrato magico](slide/05-02-magic_square.pdf)
 
 ## Informazioni
 
