@@ -8,6 +8,7 @@
 - [Introduzione a JavaFX](slide/02-01-javafx-crashcourse.pdf)
 - [Git & GitHub - Quick Introduction](slide/01-02-Git-quickintro.pdf)
 - [JavaFX ed il pattern MVC](slide/02-02-javafx-mvc-pattern.pdf)
+- [Tabelle in JavaFX](slide/02-03-javafx-tables.pdf)
 - [Collections: Set e Hash](slide/03-03-Sets%26Hash.pdf)
 - [Collections: Map](slide/03-04-Map.pdf)
 - [Dates and Times in Java and SQL](slide/03-05-JavaDatesTimes.pdf)
