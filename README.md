@@ -9,12 +9,14 @@
 - [Git & GitHub - Quick Introduction](slide/01-02-Git-quickintro.pdf)
 - [JavaFX ed il pattern MVC](slide/02-02-javafx-mvc-pattern.pdf)
 - [Tabelle in JavaFX](slide/02-03-javafx-tables.pdf)
-- [Collections: Set e Hash](slide/03-03-Sets%26Hash.pdf)
-- [Collections: Map](slide/03-04-Map.pdf)
+- [Collections: `Set` e `Hash`](slide/03-03-Sets%26Hash.pdf)
+- [Collections: `Map`](slide/03-04-Map.pdf)
 - [Dates and Times in Java and SQL](slide/03-05-JavaDatesTimes.pdf)
 - [Database: JDBC, DAO, Connection Pooling](slide/04-01-jdbc-dao.pdf)
 - [Introduzione alla ricorsione](slide/05-01-recursion.pdf)
 - [Esempio sulla ricorsione: il quadrato magico](slide/05-02-magic_square.pdf)
+- [Introduzione ai grafi](slide/06-01-intro-graphs.pdf)
+- [Introduzione alla libreria `jGraphT`](slide/06-02-jGraphT-library.pdf)
 
 
 ## Informazioni
