@@ -17,7 +17,7 @@
 - [Esempio sulla ricorsione: il quadrato magico](slide/05-02-magic_square.pdf)
 - [Introduzione ai grafi](slide/06-01-intro-graphs.pdf)
 - [Introduzione alla libreria `jGraphT`](slide/06-02-jGraphT-library.pdf)
-- [Visite nei grafi](slide/06-02-jGraphT-library.pdf)
+- [Visite nei grafi](slide/06-03-graphs-visits.pdf)
 
 
 ## Informazioni
