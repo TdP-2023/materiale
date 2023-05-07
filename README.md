@@ -11,6 +11,7 @@
 - [Tabelle in JavaFX](slide/02-03-javafx-tables.pdf)
 - [Collections: `Set` e `Hash`](slide/03-03-Sets%26Hash.pdf)
 - [Collections: `Map`](slide/03-04-Map.pdf)
+- [COllections: `PriorityQueue`](slide/03-06-Queue.pdf)
 - [Dates and Times in Java and SQL](slide/03-05-JavaDatesTimes.pdf)
 - [Database: JDBC, DAO, Connection Pooling](slide/04-01-jdbc-dao.pdf)
 - [Introduzione alla ricorsione](slide/05-01-recursion.pdf)
@@ -18,6 +19,7 @@
 - [Introduzione ai grafi](slide/06-01-intro-graphs.pdf)
 - [Introduzione alla libreria `jGraphT`](slide/06-02-jGraphT-library.pdf)
 - [Visite nei grafi](slide/06-03-graphs-visits.pdf)
+- [Simulazioni ad eventi discreti](slide/07-01-simulation.pdf)
 
 
 ## Informazioni
